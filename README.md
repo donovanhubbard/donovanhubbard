@@ -19,11 +19,11 @@ Most of the repos here are abandonded projects that didn't get too far, but here
 <!--START_SECTION:waka-->
 
 ```text
-Ruby         29 hrs 5 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
-JavaScript   20 hrs 14 mins  ████████▒░░░░░░░░░░░░░░░░   32.89 %
-Markdown     6 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-CSS          2 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-ERB          1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JavaScript   33 hrs 42 mins  ████████████▒░░░░░░░░░░░░   49.91 %
+Ruby         22 hrs 55 mins  ████████▒░░░░░░░░░░░░░░░░   33.94 %
+Markdown     5 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+CSS          2 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
