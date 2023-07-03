@@ -19,11 +19,11 @@ Most of the repos here are abandonded projects that didn't get too far, but here
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 21 mins   ████████▓░░░░░░░░░░░░░░░░   34.35 %
-Go           2 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.23 %
-TypeScript   37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-JSON         33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Markdown     23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+JavaScript   2 hrs 22 mins   ████████████▓░░░░░░░░░░░░   50.57 %
+TypeScript   43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+JSON         38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Ruby         22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
 ```
 
 <!--END_SECTION:waka-->
