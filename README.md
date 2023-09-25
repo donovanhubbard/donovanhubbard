@@ -19,11 +19,11 @@ Most of the repos here are abandonded projects that didn't get too far, but here
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       52 hrs 26 mins  ████████████████████▓░░░░   82.75 %
-CSS              5 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-JavaScript       1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Markdown         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Docker           1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TypeScript       47 hrs 26 mins  ████████████████████░░░░░   79.70 %
+CSS              5 hrs 20 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Markdown         1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JavaScript       1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Docker           1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
