@@ -19,7 +19,11 @@ Most of the repos here are abandonded projects that didn't get too far, but here
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           5 hrs 22 mins   █████████████████▓░░░░░░░   70.51 %
+Text         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+JavaScript   22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+VHS          15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
