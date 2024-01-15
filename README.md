@@ -19,11 +19,8 @@ Most of the repos here are abandonded projects that didn't get too far, but here
 <!--START_SECTION:waka-->
 
 ```txt
-Go           6 hrs           ██████████████▒░░░░░░░░░░   57.66 %
-Other        1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
-Vim Script   47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-JavaScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Lua          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Vim Script   1 min           █████████████████░░░░░░░░   67.59 %
+Lua          0 secs          ████████░░░░░░░░░░░░░░░░░   32.41 %
 ```
 
 <!--END_SECTION:waka-->
