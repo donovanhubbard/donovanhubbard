@@ -19,8 +19,7 @@ Most of the repos here are abandonded projects that didn't get too far, but here
 <!--START_SECTION:waka-->
 
 ```txt
-Vim Script   1 min           █████████████████░░░░░░░░   67.59 %
-Lua          0 secs          ████████░░░░░░░░░░░░░░░░░   32.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
